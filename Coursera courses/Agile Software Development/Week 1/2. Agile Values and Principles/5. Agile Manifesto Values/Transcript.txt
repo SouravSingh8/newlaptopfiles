@@ -1,0 +1,108 @@
+00:00
+so it was 2001 and a group of software
+00:03
+visionaries gathered at a ski resort to
+00:06
+share their experiences and figure out
+00:08
+why so many software projects were
+00:10
+failing this wasn't just about
+00:11
+documenting best practices they knew the
+00:14
+industry required a fundamental shift in
+00:16
+values and so the agile manifesto was
+00:19
+born the Declaration of for bold value
+00:22
+statements that became the basis of a
+00:24
+new approach to software development and
+00:26
+would change the industry forever but
+00:29
+what were those four values and why
+00:31
+should you care take a look but first it
+00:34
+is important to point out that the agile
+00:36
+manifesto ends by noting that all of the
+00:38
+things mentioned are important just that
+00:41
+some things must be prioritized over
+00:42
+others okay here we go number one
+00:46
+individuals and interactions over
+00:48
+processes and tools
+00:49
+this doesn't mean throw processes and
+00:52
+tools out the window simply means that a
+00:54
+good face-to-face chat should trump
+00:56
+rigid workflows and impersonal forms of
+00:58
+communication number two working
+01:01
+software over comprehensive
+01:03
+documentation makes sense right but
+01:06
+traditional software development often
+01:08
+produced extensive documentation before
+01:10
+a program was released for initial
+01:12
+testing some documentation is good but
+01:15
+wouldn't it be better to have the
+01:16
+program than a book describing it number
+01:19
+three customer collaboration over
+01:20
+contract negotiation sure you'll want to
+01:23
+start out with some initial guidelines
+01:25
+but instead of locking customers in a
+01:27
+cage by defining the exact details of
+01:29
+the project before it starts teams and
+01:31
+customers should collaborate to find the
+01:33
+best solutions and finally number four
+01:36
+responding to change over following a
+01:38
+plan nothing ever goes entirely
+01:41
+according to plan
+01:42
+so instead of sticking with something
+01:43
+that isn't working it's much more
+01:45
+effective to make adjustments as your
+01:47
+situation changes following the values
+01:50
+isn't always easy but when you build
+01:52
+them into your team's processes
+01:54
+customers notice hey
+01:56
+is huge which of the agile values do you
+02:00
+think is the most important

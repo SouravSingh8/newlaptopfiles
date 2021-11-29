@@ -1,0 +1,536 @@
+00:05
+according to the agile Alliance after a
+00:09
+software development is an umbrella term
+00:11
+for a set of methods and practices based
+00:14
+on the values and principles expressed
+00:17
+in the agile manifesto therefore we
+00:21
+can't succeed for scrum Kanban lean or
+00:25
+any other outdoor framework unless we
+00:27
+deeply understand and live by our agile
+00:30
+values and principles well many people
+00:33
+are familiar with agile for the agile
+00:36
+manifesto the principles are less well
+00:39
+known I'll share them with you along
+00:41
+with a couple thoughts reach that I've
+00:43
+discovered along the way so what are the
+00:46
+agile principles principle number one
+00:50
+our highest priority is to satisfy the
+00:53
+customer through early and continuous
+00:57
+delivery of valuable software one of my
+01:01
+favorite sayings is waste is anything
+01:04
+the customer doesn't want and isn't
+01:06
+willing to pay for planning is essential
+01:08
+agile events are useful technical spikes
+01:12
+who explore new technologies can give us
+01:14
+architecture or one way and new
+01:16
+competitive advantages but at the end of
+01:20
+the day customers pays for working
+01:22
+software and services not the effort
+01:24
+that got us there principle number two
+01:28
+welcomed changing requirements even late
+01:31
+in development and agile processes
+01:34
+harness change for the customers
+01:36
+competitive advantage agile embraces
+01:39
+empiricism it's almost a guarantee that
+01:42
+we will be more knowledgeable once we
+01:45
+have commenced work in a project than at
+01:47
+the beginning our customers will learn
+01:50
+more about their own needs when they see
+01:52
+an increment of our work let's not
+01:56
+forget that our competition isn't
+01:57
+standing still either
+02:00
+so inevitably you will learn something
+02:03
+during the development cycle that
+02:05
+clearly demonstrates that the current
+02:06
+plan is not wise possible or both
+02:10
+welcoming changing requirements means
+02:13
+that we are being empirical and
+02:15
+data-driven this isn't to say that we
+02:18
+should get in the habit of constantly
+02:19
+interrupting work in process as long as
+02:22
+whatever is being worked on now is still
+02:23
+valuable try to give your team the time
+02:26
+they need to finish what they started
+02:28
+before you introduce to change principle
+02:32
+number three deliver working software
+02:34
+frequently from a couple of weeks to a
+02:37
+couple of months with the preference to
+02:39
+the shorter timescale this principle
+02:42
+frequently draws controversy for a
+02:45
+start-up every two weeks seems like an
+02:47
+eternity whereas a giant lumbering
+02:50
+publicly traded corporation can take two
+02:53
+months just to get code through the
+02:55
+bureaucratic approval deployment process
+02:57
+the more frequently you deliver software
+03:00
+the smaller and less risk in your
+03:02
+releases and the more likely you are to
+03:05
+have good automation the more frequently
+03:08
+you deliver software the more chances
+03:10
+you have to get and incorporate feedback
+03:12
+from your customers in real world use of
+03:15
+your product not every customer base can
+03:18
+handle very frequent releases in these
+03:21
+cases it can be useful to identify a
+03:22
+cohort of your customers who will accept
+03:26
+or even embrace frequent releases and
+03:28
+give them early and frequent access to
+03:31
+new features worst case you can deploy
+03:34
+frequently to a staging environment and
+03:36
+test it internally or consume your new
+03:39
+features internally principle number
+03:44
+four business people and developers must
+03:47
+work together daily throughout the
+03:48
+project this principle also draws
+03:51
+controversy particularly from developers
+03:54
+who have had to deal with
+03:55
+micromanagement or harassment from
+03:57
+project managers and other stakeholders
+03:59
+at the very minimum
+04:01
+I suggest that the product owner who
+04:03
+acts as a proxy for business people and
+04:05
+customers to the team work with the team
+04:08
+daily to clarify requirements accept
+04:12
+work
+04:13
+and help remove impediments it's also
+04:16
+effectively scrum table stakes to have
+04:19
+business people attend sprint review
+04:21
+each sprint but the business people
+04:24
+attend the daily scrum participate
+04:26
+collaboratively and remain available and
+04:29
+accountable to their teens these teams
+04:32
+will enjoy significantly greater job
+04:34
+satisfaction and performance principle
+04:38
+number five build projects around
+04:41
+motivated individuals give them the
+04:44
+environment and support they need and
+04:46
+trust them to get the job done first in
+04:50
+this book Drive Daniel pink explains
+04:53
+that the three things that motivate us
+04:54
+the most are autonomy mastery and
+04:57
+purpose not financial rewards so I
+05:01
+suggest your scrum master
+05:03
+c'mon flow master or whoever else is in
+05:06
+that agile facilitation role make it
+05:09
+their mission to gain greater autonomy
+05:11
+for their team functional managers
+05:14
+senior developers and architects can
+05:17
+help developers gain greater mastery and
+05:19
+a product manager can create a sense of
+05:21
+purpose by articulating a powerful why
+05:24
+for the team's product second our
+05:28
+typical modern management culture it's a
+05:31
+bit like an Olympic athlete who focuses
+05:33
+only a water will feel like to win the
+05:36
+gold medal rather than investing in the
+05:38
+training that enables victory similarly
+05:41
+we must focus on developing their
+05:43
+employees full potential so they have to
+05:45
+do the means to deliver the wins that we
+05:47
+so desire third we must allow space for
+05:51
+genius for instance we now write brief
+05:55
+user stories that cover the essential
+05:57
+points and invite conversations between
+06:00
+developers product owners and
+06:02
+stakeholders this is a far cry from
+06:05
+detailed software engineering
+06:07
+requirement documents that attempt to
+06:10
+control every last detail structure
+06:12
+development often written by the people
+06:15
+on the team with the least software
+06:17
+development experience
+06:19
+principle number six the most efficient
+06:22
+and effective method of conveying
+06:24
+information to and within a development
+06:28
+team is face-to-face conversation I
+06:31
+think this principle covers a few things
+06:33
+first
+06:35
+don't let written documentation
+06:37
+requirements get in the way of talking
+06:39
+to one another this is all about
+06:41
+customer collaboration over contract
+06:43
+negotiation second there's no substitute
+06:47
+for colocation just as we travel to see
+06:50
+friends and family so that we can see
+06:51
+them face to face rather than just talk
+06:54
+on the phone
+06:54
+so too can we have higher quality of
+06:57
+interactions when we were physically
+06:58
+together third event such as sprint
+07:02
+planning are valuable because they allow
+07:04
+for a greater volume of communication to
+07:07
+occur in a shorter period of time never
+07:10
+underestimate the difference in
+07:11
+communication quality and bandwidth
+07:14
+between several people exchanging emails
+07:17
+as synchronously versus standing
+07:19
+together at a good whiteboard principle
+07:23
+number seven working software is the
+07:26
+primary measure of progress this is a
+07:29
+lot like the first principle a highest
+07:31
+priority is to satisfy the customer
+07:33
+through early and continuous delivery a
+07:35
+valuable software to a product manager
+07:39
+it can feel like a big accomplishment to
+07:41
+get a software requirements document
+07:43
+signed off by stakeholders for a
+07:45
+developer it can feel good to turn over
+07:48
+a feature to a QA engineer however all
+07:52
+these activities are frequently
+07:53
+prerequisites to delivering working
+07:55
+software to customers no value could be
+07:59
+captured by the company for these
+08:01
+efforts until working software is in
+08:03
+production
+08:06
+principle number eight agile processes
+08:09
+promote sustainable development the
+08:12
+sponsor developers and users should be
+08:16
+able to maintain a constant pace
+08:17
+indefinitely developing software should
+08:21
+feel more like running a long marathon
+08:23
+than back-to-back sprints excessive
+08:26
+effort can rapidly exhaust teams burnout
+08:29
+employees and even impact relationships
+08:31
+at home one of my favorite ways of
+08:34
+looking at this is through the York's
+08:36
+Dotson Law which shows us that it's
+08:38
+physiological arousal like stress
+08:41
+anxiety and panic increases our
+08:44
+performance on complex tasks such as
+08:46
+product strategy and software
+08:48
+development becomes rapidly compromised
+08:52
+principle number nine continuous
+08:55
+attention of technical excellence in
+08:57
+good design enhances agility an absence
+09:01
+of good code management integration
+09:03
+testing and deployment
+09:06
+rapidly compromises a team's performance
+09:09
+poor design decisions can paint a team
+09:12
+into a corner and failing to address
+09:14
+bugs and technical debt often due to
+09:17
+delivery pressures from stakeholders
+09:19
+rapidly makes a codebase unmanageable
+09:22
+let alone easy to develop against
+09:26
+principle number 10 simplicity the art
+09:30
+of maximize the amount of work not done
+09:32
+is essential more features for poor
+09:37
+architectural decisions make a software
+09:40
+more complex highly complex code is
+09:43
+harder to test maintain and develop
+09:45
+against many products have features are
+09:48
+so rarely used that the development and
+09:51
+maintenance likely result a negative
+09:54
+return on investment in general it's
+09:57
+better to have a targeted product that
+09:58
+does a few things extraordinarily well
+10:00
+being everything to someone or other
+10:03
+than one that attempts to cash in the
+10:05
+entire market or pleases no one
+10:09
+principle number eleven the best
+10:11
+architectures requirements and designs
+10:14
+emerge from self-organizing teams this
+10:18
+too could be controversial particularly
+10:20
+for people who are used to coming up
+10:21
+with architectures requirements and
+10:23
+designs that aren't part of the teams
+10:25
+the two most common arguments are here
+10:28
+that a company's teams don't have the
+10:29
+necessary skills to do this work and
+10:32
+someone needs to ensure standardization
+10:34
+between teams - the first argument i
+10:37
+suggest that a company invest in its
+10:38
+employees and then they employees invest
+10:40
+in themselves so they can both remain
+10:42
+competitive - the second argument the
+10:46
+standardization often does not have a
+10:48
+positive ROI let's expect it to why not
+10:51
+have the team's talk to one another
+10:54
+principle number 12 at regular intervals
+10:57
+the team reflects and how to become more
+11:00
+effective than toons and adjust its
+11:02
+behavior accordingly to me this is far
+11:06
+and away the most important principle
+11:08
+all of these agile values and principles
+11:11
+and with them all the benefits of agile
+11:14
+Pro provides came from expert teams
+11:16
+applying the empirical process to
+11:19
+optimizing how they work perhaps your
+11:22
+team wants to vary from an agile
+11:24
+frameworks default process that's fine
+11:27
+reflect plan a new experiment do the
+11:31
+experiment check the experiment results
+11:33
+that act on what you found
+11:35
+plan-do-check-act
+11:38
+this is powerful and if you keep it in
+11:40
+mind you can do it at every event and
+11:42
+the daily scrum to your sprint planning
+11:46
+those are the agile principles thanks
+11:48
+for listening
+11:51
+you
